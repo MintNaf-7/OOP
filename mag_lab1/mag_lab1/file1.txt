@@ -1,0 +1,12 @@
+Name: Anna Karenina	Author: Leo Tolstoy	Release date: 1877
+Name: The tribulation of Satan	Author: Maria Corelli	Release date: 1895
+Name: The gifts of the Magi	Author: O. Henry	Release date: 1905
+Name: Professor Dowell's head	Author: Alexander Romanovich Belyaev	Release date: 1925
+Name: The priest's daughter	Author: George Orwell	Release date: 1934
+Name: 1984	Author: George Orwell	Release date: 1948
+Name: The art of loving	Author: Erich Fromm	Release date: 1956
+Name: A roadside picnic	Author: Arkady and Boris Strugatsky	Release date: 1971
+Name: Almost seriously	Author: Yuri Nikulin	Release date: 1976
+Name: The hitchhiker's guide to the galaxy	Author: Douglas Adams	Release date: 1979
+Name: A bridge across eternity	Author: Richard Bach	Release date: 1984
+Name: Cloud atlas	Author: David Mitchell	Release date: 2004

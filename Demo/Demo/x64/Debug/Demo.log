@@ -1,0 +1,4 @@
+﻿  Demo.cpp
+C:\Users\Ksenia\source\repos\Demo\Demo\Demo.cpp(107,12): warning C4930: std::string Friman(std::vector<cv::Point,std::allocator<cv::Point>>): функция с прототипом не вызвана (предполагалось определение переменной?)
+C:\Users\Ksenia\source\repos\Demo\Demo\Demo.cpp(290,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Demo.vcxproj -> C:\Users\Ksenia\source\repos\Demo\x64\Debug\Demo.exe

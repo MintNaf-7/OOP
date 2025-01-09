@@ -1,0 +1,3 @@
+﻿  mag_lab3.cpp
+C:\Users\Ksenia\Desktop\М1\ООП\mag_lab3\mag_lab3\mag_lab3.cpp(59,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  mag_lab3.vcxproj -> C:\Users\Ksenia\Desktop\М1\ООП\mag_lab3\Debug\mag_lab3.exe

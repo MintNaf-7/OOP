@@ -1,0 +1,5 @@
+mag_lab4.cpp
+main.cpp
+mag_lab4.h
+mag_lab4.ui
+mag_lab4.qrc

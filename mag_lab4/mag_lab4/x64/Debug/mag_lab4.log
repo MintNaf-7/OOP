@@ -1,0 +1,5 @@
+﻿  moc mag_lab4.h
+  main.cpp
+  moc_mag_lab4.cpp
+  LINK : не найден или не выполнена сборка C:\Users\Ksenia\source\repos\mag_lab4\x64\Debug\mag_lab4.exe при последней инкрементной компоновке; выполняется полная компоновка
+  mag_lab4.vcxproj -> C:\Users\Ksenia\source\repos\mag_lab4\x64\Debug\mag_lab4.exe

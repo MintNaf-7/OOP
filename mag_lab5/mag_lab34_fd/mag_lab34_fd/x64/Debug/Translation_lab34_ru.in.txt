@@ -1,0 +1,5 @@
+mag_lab34_fd.cpp
+main.cpp
+mag_lab34_fd.h
+mag_lab34_fd.ui
+mag_lab34_fd.qrc

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mag_lab34_fd", "mag_lab34_fd\mag_lab34_fd.vcxproj", "{441734D2-9BBC-411F-ADD0-B8133056EC26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{441734D2-9BBC-411F-ADD0-B8133056EC26}.Debug|x64.ActiveCfg = Debug|x64
+		{441734D2-9BBC-411F-ADD0-B8133056EC26}.Debug|x64.Build.0 = Debug|x64
+		{441734D2-9BBC-411F-ADD0-B8133056EC26}.Release|x64.ActiveCfg = Release|x64
+		{441734D2-9BBC-411F-ADD0-B8133056EC26}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56CBBFBE-F61A-4DA7-B153-9C3A49187024}
+	EndGlobalSection
+EndGlobal

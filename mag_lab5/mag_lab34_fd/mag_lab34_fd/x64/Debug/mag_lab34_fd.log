@@ -1,0 +1,6 @@
+﻿   Qt/MSBuild: 3.3.1.1
+   Qt: 6.7.3
+  lupdate Translation_lab34_ru.ts
+  Updating 'Translation_lab34_ru.ts'...
+      Found 9 source text(s) (0 new and 9 already existing)
+  mag_lab34_fd.vcxproj -> C:\Users\Ksenia\Desktop\М1\ФПУ\mag_lab34_fd\x64\Debug\mag_lab34_fd.exe
